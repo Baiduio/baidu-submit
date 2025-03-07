@@ -1,6 +1,6 @@
 # 百度站长平台提交插件
 
-[![WordPress Plugin Version](https://img.shields.io/badge/Version-2.2-blue.svg)](https://github.com/yourname/baidu-submitter) 
+[![WordPress Plugin Version](https://img.shields.io/badge/Version-2.2-blue.svg)](https://github.com/Baiduio/baidu-submit) 
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 一款专为WordPress优化的百度站长平台链接提交解决方案，提供自动化提交、智能重试和可视化数据统计功能。
